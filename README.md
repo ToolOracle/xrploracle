@@ -10,7 +10,7 @@ XRPL DEX orderbook, RLUSD monitoring, AMM pools, escrow tracking, trust line ana
 
 ## 8 Tools
 
-All tools return structured JSON with evidence-grade data. Free to use, no API key required for basic access.
+All tools return structured JSON with evidence-grade data.
 
 ## Quick Start
 
