@@ -1,0 +1,11 @@
+{
+  "name": "XRPLOracle",
+  "description": "XRP Ledger intelligence for AI agents — accounts, trust lines, DEX, AMM pools via MCP",
+  "repository": "https://github.com/ToolOracle/xrploracle",
+  "endpoint": "https://tooloracle.io/xrpl/mcp/",
+  "health": "https://tooloracle.io/xrpl/health",
+  "tools": 8,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": ["xrp-ledger", "mcp", "ai-agent", "tooloracle"]
+}
