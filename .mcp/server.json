@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/xrploracle",
+  "description": "XRPLOracle \u2014 XRPL deep intelligence: RLUSD CCI, DEX orderbook, AMM pools, escrow, DID, compliance flags. 31 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/xrpl/mcp/"
+    }
+  ]
+}
