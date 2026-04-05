@@ -1,0 +1,5 @@
+name: XRPLOracle
+description: XRPL deep intelligence — RLUSD, DEX, AMM — 31 tools
+endpoint: https://tooloracle.io/xrpl/mcp/
+transport: streamable-http
+license: MIT
